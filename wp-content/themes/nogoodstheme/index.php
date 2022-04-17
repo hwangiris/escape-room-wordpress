@@ -4,7 +4,7 @@
     <?php get_template_part('company'); ?>
   </section>
   <section class="my-5 py-5 bg-light">
-    <div>
+    <div class="container">
       <?php get_template_part('about'); ?>
     </div>
   </section>
